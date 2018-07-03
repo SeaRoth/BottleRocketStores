@@ -1,16 +1,18 @@
 # BottleRocketStores
 
+This code has been temporarily removed due to the request of the Employer. If you would like to see it then get in contact with me.
+
 ### REQUIREMENTS
-![Question]()
+![Question](https://github.com/SeaRoth/BottleRocketStores/blob/master/1.png?raw=true)
 
 ### Empty List
-![JSON]()
+![JSON](https://github.com/SeaRoth/BottleRocketStores/blob/master/2.png?raw=true)
 
 ### Add One
-![JSON]()
+![JSON](https://github.com/SeaRoth/BottleRocketStores/blob/master/3.png?raw=true)
 
 ### View one
-![JSON]()
+![JSON](https://github.com/SeaRoth/BottleRocketStores/blob/master/4.png?raw=true)
 
 ### Populate List
-![JSON](https://i.imgur.com/fq4quP0.png)
+![JSON](https://github.com/SeaRoth/BottleRocketStores/blob/master/5.png?raw=true)
